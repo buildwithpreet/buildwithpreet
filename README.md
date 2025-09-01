@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Preet Nagar</h1>
 <h3 align="center">🚀 A Passionate CSE Student | Future AI Innovator | Hackathon Enthusiast</h3>
 
----
 
 ## 🚀 About Me  
 - 🎓 I'm a **B.Tech CSE Student** (3rd Semester)  
@@ -10,7 +9,6 @@
 - 🏆 Hackathon Participant at **HackPrix 2.0 (Hyderabad)**   
 - 📚 Always learning & sharing knowledge to inspire others  
 
----
 
 ## 📌 Current Focus  
 - 📍 C++ with DSA – Competitive Programming & Problem Solving  
@@ -18,7 +16,6 @@
 - 📍 AI & ML – Python, TensorFlow, OpenAI API, Computer Vision  
 - 📍 Hackathon-Ready Projects – Combining AI, IoT, and Web Apps
 
----
 
 ## 🛠 Tech Stack
 
@@ -36,20 +33,16 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
 
----
 
 ## 📊 GitHub Stats & Activity  
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bwp-developer&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bwp-developer&theme=radical" />
-</p>
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=buildwithpreet&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=buildwithpreet&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=buildwithpreet&theme=dracula&hide_border=false" height="150" alt="Streak Stats"  />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwp-developer&layout=compact&theme=radical" />
-</p>
-
----
 
 ## 🏆 Achievements  
 - 🥇 Selected for **HackPrix 2.0** National Hackathon  
